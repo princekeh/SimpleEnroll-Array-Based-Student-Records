@@ -1,4 +1,4 @@
-# SimpleEnroll-Array-Based-Student-Records
+# Course Enrollment and Grade Management System
 
 🎓 About the Project
 This project is a back-to-basics demonstration of how to manage structured data in Java using parallel static arrays. It’s a bare-bones Student Record Management System designed to handle basic administrative tasks like adding new students, updating their details, and viewing specific records. It’s a great piece to show off fundamental data structure manipulation before jumping into more complex collections.
